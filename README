@@ -20,6 +20,7 @@ string-calculator/
 │── src/                     # Contains source code
 │   ├── stringCalculator.js
 │── package.json             # Project dependencies and scripts
+│── jest.config.js (optional) # Jest configuration file
 │── README.md                # Documentation
 ```
 
